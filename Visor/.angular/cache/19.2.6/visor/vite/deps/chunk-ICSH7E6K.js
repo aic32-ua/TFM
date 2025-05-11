@@ -69,10 +69,10 @@ function getRtlScrollAxisType() {
 }
 
 export {
+  coerceCssPixelValue,
   RtlScrollAxisType,
   supportsScrollBehavior,
   getRtlScrollAxisType,
-  coerceCssPixelValue,
   coerceBooleanProperty
 };
-//# sourceMappingURL=chunk-WNRTRJLG.js.map
+//# sourceMappingURL=chunk-ICSH7E6K.js.map
